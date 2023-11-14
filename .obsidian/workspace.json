@@ -11,14 +11,6 @@
             "id": "739350fbbdcd6c02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "08da74e90ab8f28c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "ReadMe.md",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "684b101bfe106aaf",
@@ -164,8 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08da74e90ab8f28c",
+  "active": "739350fbbdcd6c02",
   "lastOpenFiles": [
-    "ReadMe.md"
+    "Game IDeas.md",
+    "Game Ideas",
+    "Game Ideas/Video Games/Alternate Reality RTS.md",
+    "ReadMe.md",
+    "Game Ideas/Card Games/Lovecraft in my Pocket.md",
+    "Game Ideas/Card Games/Shadowy Cabal.md",
+    "Game Ideas/Video Games",
+    "Game Ideas/Card Games"
   ]
 }
