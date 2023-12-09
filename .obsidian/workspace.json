@@ -10,13 +10,15 @@
           {
             "id": "f50184a1f06f964d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ReadMe.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadMe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReadMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ReadMe.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,8 +152,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f50184a1f06f964d",
+  "active": "7d170333be1e3834",
   "lastOpenFiles": [
+    "Tabletop RPGs/One-Shots/Save Innsmouth/Save Innsmouth.md",
+    "Tabletop RPGs/One-Shots/The Cult Underneath/The Cult Underneath.md",
+    "Cthulu Hack - Reduced Rules.md",
+    "Tabletop RPGs/Game Systems/Cthulhu Hack - Reduced Rules.md",
+    "Tabletop RPGs/One-Shots/Save Innsmouth/Shoggoth Caves below Innsmouth.png",
+    "Tabletop RPGs/One-Shots/Save Innsmouth",
+    "Tabletop RPGs/One-Shots/The Cult Underneath/Characters/NPC2.md",
+    "Tabletop RPGs/One-Shots/The Cult Underneath/Characters/NPC1.md",
+    "Tabletop RPGs/One-Shots/The Cult Underneath/Locations/The Four Horsemen.md",
+    "Tabletop RPGs/One-Shots/The Cult Underneath/Locations/Basement Chapel.md",
+    "Tabletop RPGs/One-Shots/The Cult Underneath/Locations/LOC2.md",
+    "Tabletop RPGs/One-Shots/The Cult Underneath/Characters",
+    "Tabletop RPGs/One-Shots/The Cult Underneath/Locations",
+    "Tabletop RPGs/One-Shots/The Cult Underneath",
+    "Tabletop RPGs/One-Shots/One-Shots.md",
+    "Tabletop RPGs/One-Shots/The Mystery At ---.md",
+    "Tabletop RPGs/Tabletop RPGs.md",
+    "Tabletop RPGs/One-Shots",
+    "Tabletop RPGs/Game Systems/Unknown System.md",
+    "Tabletop RPGs/Game Systems/Fate-Core.pdf",
+    "Tabletop RPGs/Game Systems/Fate-AcceleratedEdition.pdf",
+    "Tabletop RPGs/Game Systems/EveryoneIsJohn.pdf",
+    "Tabletop RPGs/Game Systems/EveryoneIsJohn-CharacterSheets.pdf",
+    "Tabletop RPGs/Game Systems/DontRestYourHead-TheBadMan.pdf",
+    "Tabletop RPGs/Game Systems/Roll For Shoes.md",
+    "ReadMe.md",
+    "Call of Cthulu.md",
     "Story Ideas/Story Ideas.md",
     "Playing Cards Collection/Playing Cards Collection.md",
     "Game Ideas/Game Ideas.md",
@@ -163,28 +188,8 @@
     "Playing Cards Collection/Hanafuda (花札) Deck.md",
     "Playing Cards Collection/Bavarian Deck.md",
     "Game Ideas/Video Games/Video Games.md",
-    "ReadMe.md",
-    "Story Ideas",
     "Game Ideas/Card Games/Shadowy Cabal/Shadowy Cabal.md",
     "Game Ideas/Card Games/Shadowy Cabal/Characters.md",
-    "Game Ideas/Card Games/Shadowy Cabal/Projects.md",
-    "Game Ideas/Card Games/Shadowy Cabal/Assets.md",
-    "Game Ideas/Card Games/Shadowy Cabal",
-    "Art Ideas/A Day In A Photo.md",
-    "Game Ideas/Video Games/Dreams/Cases.md",
-    "Art Ideas",
-    "Game Ideas/Video Games/Dreams/Gameplay.md",
-    "Game Ideas/Video Games/Dreams/Dreams.md",
-    "Game Ideas/Video Games/Dreams/Inspiration.md",
-    "Game Ideas/Video Games/Dreams/Story Concept.md",
-    "Game Ideas/Video Games/Dreams/Puzzles.md",
-    "Game Ideas/Video Games/Dreams",
-    "Playing Cards Collection",
-    "Game Ideas/Video Games/Alternate Reality RTS.md",
-    "Game Ideas/Card Games/Lovecraft in my Pocket.md",
-    "Game IDeas.md",
-    "Game Ideas",
-    "Game Ideas/Video Games",
-    "Game Ideas/Card Games"
+    "Game Ideas/Card Games/Shadowy Cabal/Projects.md"
   ]
 }

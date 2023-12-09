@@ -1,0 +1,1 @@
+Underground chapel once a large storage area for equipment or merchandise, it has long been forgotten by its original owners and has become infested with strange and heratical religious artifacts, the stench of evil oozing from the very walls.

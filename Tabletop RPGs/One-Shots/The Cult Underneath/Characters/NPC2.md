@@ -1,0 +1,1 @@
+[[NPC1]]’s employer. A prominent member of society, but one who doesn't want to be seen to be associated with research into the cult.

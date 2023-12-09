@@ -1,0 +1,1 @@
+Abandoned mansion/warehouse/tube station etc. first battle will be here, against some mooks

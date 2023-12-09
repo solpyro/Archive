@@ -4,8 +4,9 @@ This vault serves as an archive for various project notes that are better suited
 - [[Art Ideas]]
 - [[Game Ideas]]
 - [[Story Ideas]]
-## Collections
+## Hobbied
 - [[Playing Cards Collection]]
+- [[Tabletop RPGs]]
 
 To sync with the git repo, we can use any traditional git tools, or we can run the command: 
 ```button
