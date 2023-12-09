@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cbcdb00dac20e129",
+        "id": "234e0bdb60701956",
         "type": "tabs",
         "children": [
           {
-            "id": "739350fbbdcd6c02",
+            "id": "f50184a1f06f964d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,14 +154,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "739350fbbdcd6c02",
+  "active": "f50184a1f06f964d",
   "lastOpenFiles": [
+    "Story Ideas/Story Ideas.md",
+    "Playing Cards Collection/Playing Cards Collection.md",
+    "Game Ideas/Game Ideas.md",
+    "Art Ideas/Art Ideas.md",
+    "Playing Cards Collection/Hanafuda (花札) Deck.md",
+    "Playing Cards Collection/Bavarian Deck.md",
+    "Game Ideas/Video Games/Video Games.md",
+    "ReadMe.md",
+    "Story Ideas",
+    "Game Ideas/Card Games/Shadowy Cabal/Shadowy Cabal.md",
+    "Game Ideas/Card Games/Shadowy Cabal/Characters.md",
+    "Game Ideas/Card Games/Shadowy Cabal/Projects.md",
+    "Game Ideas/Card Games/Shadowy Cabal/Assets.md",
+    "Game Ideas/Card Games/Shadowy Cabal",
+    "Art Ideas/A Day In A Photo.md",
+    "Game Ideas/Video Games/Dreams/Cases.md",
+    "Art Ideas",
+    "Game Ideas/Video Games/Dreams/Gameplay.md",
+    "Game Ideas/Video Games/Dreams/Dreams.md",
+    "Game Ideas/Video Games/Dreams/Inspiration.md",
+    "Game Ideas/Video Games/Dreams/Story Concept.md",
+    "Game Ideas/Video Games/Dreams/Puzzles.md",
+    "Game Ideas/Video Games/Dreams",
+    "Playing Cards Collection",
+    "Game Ideas/Video Games/Alternate Reality RTS.md",
+    "Game Ideas/Card Games/Lovecraft in my Pocket.md",
     "Game IDeas.md",
     "Game Ideas",
-    "Game Ideas/Video Games/Alternate Reality RTS.md",
-    "ReadMe.md",
-    "Game Ideas/Card Games/Lovecraft in my Pocket.md",
-    "Game Ideas/Card Games/Shadowy Cabal.md",
     "Game Ideas/Video Games",
     "Game Ideas/Card Games"
   ]
