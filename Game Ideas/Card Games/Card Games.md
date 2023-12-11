@@ -1,0 +1,2 @@
+[[Lovecraft In My Pocket]] - Definitely not just a repaint of [Zombie in my Pocket](https://boardgamegeek.com/boardgame/33468/zombie-my-pocket)
+[[Shadowy Cabal]] - The beginnings of an idea for a game, but needs some fleshing out

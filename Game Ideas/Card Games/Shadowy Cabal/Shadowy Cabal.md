@@ -1,4 +1,3 @@
-
 ## Story
 The Cabal controls the world by subtle influence over different aspects of civilisation. #Media, #Science, #ArmsAndConflict, #Religion, #Politics and #Education...
 ## Basic Concept

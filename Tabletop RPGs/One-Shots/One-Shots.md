@@ -5,7 +5,7 @@ Focus on one plot. No sub-plots or side quests
 More ideas from [RPG Stackexchange](http://rpg.stackexchange.com/questions/10636/role-playing-plot-focused-one-shot-sessions)
 
 ## Suitable Systems
-- [[CallOfCthulu.pdf|Call of Cthulu]] prebuilt on page 18
+- [[CallOfCthulu.pdf|Call of Cthulu]] prebuilt on page 18 ([[CallOfCthulu-CharacterSheet.pdf|Character Sheet]])
 - [[ChanglingTheLost.pdf|Changeling: The Lost]] prebuilt on page 6
 - [A BGG discussion about oneshot systems](http://boardgamegeek.com/geeklist/72514/rpgs-one-shot-play) which yields
 	- [1001 Nights](http://nightskygames.com/welcome/game/1001Nights)
@@ -24,3 +24,5 @@ More ideas from [RPG Stackexchange](http://rpg.stackexchange.com/questions/10636
 	- [[DontRestYourHead-TheBadMan.pdf|Don’t Rest Your Head]] ([http://www.evilhat.com/home/dont-rest-your-head-2/](http://www.evilhat.com/home/dont-rest-your-head-2/), [http://actualplay.roleplayingpublicradio.com/2010/11/genre/modern-fantasy/dont-rest-your-head/](http://actualplay.roleplayingpublicradio.com/2010/11/genre/modern-fantasy/dont-rest-your-head/))
 ## Storylines
 [[The Mystery At ---]]
+[[The Cult Underneath]]
+[[Save Innsmouth]]

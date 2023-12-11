@@ -4,7 +4,7 @@ This vault serves as an archive for various project notes that are better suited
 - [[Art Ideas]]
 - [[Game Ideas]]
 - [[Story Ideas]]
-## Hobbied
+## Hobbies
 - [[Playing Cards Collection]]
 - [[Tabletop RPGs]]
 
