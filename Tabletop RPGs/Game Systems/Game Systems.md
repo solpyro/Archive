@@ -1,8 +1,14 @@
 - [1001 Nights](http://nightskygames.com/welcome/game/1001Nights)
 - [Agon](http://www.agon-rpg.com) (Greek mythos)
 - [[BAR-PGOTTOTH-FAOBHB-S,DBE,DAAAE,AHGC,WFAMF,ABHB-S,DBE,WTOWHAE.pdf|Being a role-playing game on the topic of the High-Flying adventures of Beatrice Henrietta Bristol-Smythe, DBE, daring Aviatrix and accomplished Exploratrix, and her Gentleman Companion, who for a Modest Fee, accompanies Beatrice Henrietta Bristol-Smythe, DBE, when the Occasion warrants her an Escort.]] ([http://www.victorianadventureenthusiast.com/dbe.html](http://www.victorianadventureenthusiast.com/dbe.html))
-- [[CallOfCthulu.pdf|Call of Cthulu]] prebuilt on page 18 ([[CallOfCthulu-CharacterSheet.pdf|Character Sheet]])
-- [[ChanglingTheLost.pdf|Changeling: The Lost]] prebuilt on page 6
+- [[CallOfCthulu.pdf|Call of Cthulu]] ([[CallOfCthulu-CharacterSheet.pdf|Character Sheet]]) 
+	- 'rules-light' system, percentile roles against skill levels (with ½ and ⅕ targets
+	- kinda complex 
+	- (http://www.chaosium.com/on-call-of-cthulhu/)
+	- prebuilt on page 18 
+- [[ChanglingTheLost.pdf|Changeling: The Lost]] 
+	- role 1d10 per pip in skill (very easy to understand)
+	- prebuilt on page 6
 - [[DontRestYourHead-TheBadMan.pdf|Don’t Rest Your Head]] ([http://www.evilhat.com/home/dont-rest-your-head-2/](http://www.evilhat.com/home/dont-rest-your-head-2/), [http://actualplay.roleplayingpublicradio.com/2010/11/genre/modern-fantasy/dont-rest-your-head/](http://actualplay.roleplayingpublicradio.com/2010/11/genre/modern-fantasy/dont-rest-your-head/))
 - [[EveryoneIsJohn.pdf|Everyone is John]] ([[EveryoneIsJohn-CharacterSheets.pdf|Character Sheet]])
 - [[Fate-Core.pdf|Fate Core]] + [[Fate-AcceleratedEdition.pdf|Accelerated Edition]]
@@ -14,3 +20,4 @@
 - [Ninja Burger](http://ninjaburger.com/)
 - [Over the edge](http://www.atlas-games.com/overtheedge/index.php)
 - [[Roll for shoes]] ([http://rpg.stackexchange.com/tags/roll-for-shoes/info](http://rpg.stackexchange.com/tags/roll-for-shoes/info))
+- [[Unknown System]] - This was appended to one of my one-shot documents. I don't recognise the system, it could be lifted from one of the PDFs or something else I saw online 
