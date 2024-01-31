@@ -6,11 +6,12 @@ Artist:
 Language: English
 Genre: 
 Source: 
+Music: https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B?si=98e76ec6d1ae4286
 tags:
   - song
 ---
 ```jtab
-%0/0.2/2.2/3.0/0.3/4.3/4[Em7] %2/T.0/0.0/0.2/1.3/2.2/1[D/F#] G C Cadd9 
+%0/0.2/1.2/2.0/0.3/3.3/4[Em7] %2/T.0/0.0/0.2/1.3/2.2/1[D/F#] G C Cadd9 
 D Am Em Bm A
 ```
 

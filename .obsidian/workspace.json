@@ -35,11 +35,10 @@
             "id": "28cd8aeb7678d813",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Guitar Music/Guitar Music.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -110,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guitar Music/Guitar Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guitar Music/Guitar Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,10 +168,18 @@
   },
   "active": "28cd8aeb7678d813",
   "lastOpenFiles": [
-    "Templates/Song.md",
     "Guitar Music/Guitar Music.md",
+    "Templates/Song.md",
+    "Guitar Music/Smilers - Nii Sind Ootan.md",
+    "Guitar Music/Pearu Paulus & Hedvig Hanson - Kallim Kullast.md",
+    "Guitar Music/Dido - White Flag.md",
     "Guitar Music/A Star Is Born - Shallow.md",
-    "Guitar Music/2 Quick Start - Kallim Kullast.md",
+    "Guitar Music/VanMorrison-BrownEyedGirl.md",
+    "Guitar Music/U2-WithOrWithoutYou.md",
+    "Guitar Music/TheRollingStones-Angie.md",
+    "Guitar Music/SpaceOddity-DavidBowie.md",
+    "Guitar Music/REM-TheOneILove.md",
+    "Guitar Music/RedHotChiliPeppers-Otherside.md",
     "Guitar Music/BobDylan-Knockin'OnHeavensDoor.md",
     "Playing Cards Collection/Decks/Bavarian Deck.md",
     "Playing Cards Collection/Playing Cards Collection.md",
@@ -185,14 +190,6 @@
     "Guitar Music/2018-09-20 19-26-20.md",
     "Game Ideas/Card Games/Card Games.md",
     "Art Ideas/Art Ideas.md",
-    "Guitar Music/VanMorrison-BrownEyedGirl.md",
-    "Guitar Music/U2-WithOrWithoutYou.md",
-    "Guitar Music/TheRollingStones-Angie.md",
-    "Guitar Music/SpaceOddity-DavidBowie.md",
-    "Guitar Music/Smilers-NiiSindOotan.md",
-    "Guitar Music/REM-TheOneILove.md",
-    "Guitar Music/RedHotChiliPeppers-Otherside.md",
-    "Guitar Music/Dido-WhiteFlag.md",
     "Guitar Music/2QuickStart-KallimKullast.md.RM_TEMPNAME",
     "Guitar Music/2018-09-20 19-26-20.txt",
     "Guitar Music/2QuickStart-KallimKullast.txt",

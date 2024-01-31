@@ -1,9 +1,10 @@
 ---
-Artist: []
+Artist: 
 Title: 
-Language: 
+Language: English
 Genre: 
 Source: 
+Music: 
 tags:
   - song
 ---
