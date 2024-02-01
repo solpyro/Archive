@@ -32,13 +32,26 @@
             }
           },
           {
-            "id": "28cd8aeb7678d813",
+            "id": "810b50c58de755c5",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Guitar Music/Guitar Music.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30610c9601e4b046",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guitar Music/TenaciousD-Tribute.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[F]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Guitar Music/Guitar Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Guitar Music/Guitar Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,6 +163,16 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "c280cf1c73ab8902",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Guitar Music/Guitar Music.md"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -166,11 +191,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28cd8aeb7678d813",
+  "active": "810b50c58de755c5",
   "lastOpenFiles": [
+    "Guitar Music/TenaciousD-Tribute.md",
+    "Guitar Music/StuartKemp-LostCauses.md",
+    "Guitar Music/StuartKemp-DiscoveryOfRock.md",
+    "Guitar Music/Sting - Fields Of Gold.md",
+    "Guitar Music/Rusted Root - Send Me On My Way.md",
     "Guitar Music/Guitar Music.md",
-    "Templates/Song.md",
+    "Guitar Music/R.E.M. - Everybody Hurts.md",
+    "Guitar Music/Pink Floyd - Wish You Were Here.md",
+    "Guitar Music/Jeff Buckley - Hallelujah.md",
+    "Guitar Music/NOFX - Together on the Sand.md",
+    "ReadMe.md",
+    "Guitar Music/Peter Auty - Walking in the Air.md",
+    "Guitar Music/ThePolice-EveryBreathYouTake.md",
     "Guitar Music/Smilers - Nii Sind Ootan.md",
+    "Guitar Music/JeffBuckley-Hallelujah.md.RM_TEMPNAME",
+    "Guitar Music/TheSnowman-WalkingInTheAir.txt",
+    "Guitar Music/ThePolice-EveryBreathYouTake.txt",
+    "Guitar Music/TenaciousD-Tribute.txt",
+    "Guitar Music/StuartKemp-LostCauses.txt",
+    "Guitar Music/StuartKemp-DiscoveryOfRock.txt",
+    "Guitar Music/Sting-FieldsOfGold.txt",
+    "Guitar Music/RustedRoot-SendMeOnMyWay.txt",
+    "Guitar Music/REM-EverybodyHurts.txt",
+    "Guitar Music/PinkFloyd-IWishYouWereHere.txt",
+    "Templates/Song.md",
     "Guitar Music/Pearu Paulus & Hedvig Hanson - Kallim Kullast.md",
     "Guitar Music/Dido - White Flag.md",
     "Guitar Music/A Star Is Born - Shallow.md",
@@ -182,28 +229,6 @@
     "Guitar Music/RedHotChiliPeppers-Otherside.md",
     "Guitar Music/BobDylan-Knockin'OnHeavensDoor.md",
     "Playing Cards Collection/Decks/Bavarian Deck.md",
-    "Playing Cards Collection/Playing Cards Collection.md",
-    "Tabletop RPGs/Tabletop RPGs.md",
-    "Templates",
-    "Guitar Music/jtab.md",
-    "Guitar Music/obsidian-markdown-chords.md",
-    "Guitar Music/2018-09-20 19-26-20.md",
-    "Game Ideas/Card Games/Card Games.md",
-    "Art Ideas/Art Ideas.md",
-    "Guitar Music/2QuickStart-KallimKullast.md.RM_TEMPNAME",
-    "Guitar Music/2018-09-20 19-26-20.txt",
-    "Guitar Music/2QuickStart-KallimKullast.txt",
-    "Guitar Music/VanMorrison-BrownEyedGirl.txt",
-    "Guitar Music/U2-WithOrWithoutYou.txt",
-    "Guitar Music/TheRollingStones-Angie.txt",
-    "Guitar Music/SpaceOddity-DavidBowie.txt",
-    "Guitar Music/Smilers-NiiSindOotan.txt",
-    "Guitar Music/REM-TheOneILove.txt",
-    "Playing Cards Collection/Games/Hanafuda.md",
-    "Playing Cards Collection/Games/Tarock.md",
-    "Playing Cards Collection/Games/Schafkopf.md",
-    "Playing Cards Collection/Games/Jass.md",
-    "Playing Cards Collection/Decks/Hanafuda (花札) Deck.md",
     "Tabletop RPGs/One-Shots/Save Innsmouth/Shoggoth Caves below Innsmouth.png"
   ]
 }
