@@ -35,10 +35,11 @@
             "id": "28cd8aeb7678d813",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Guitar Music/Guitar Music.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -109,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Guitar Music/Guitar Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Guitar Music/Guitar Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,6 +151,16 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "810f36f4bd67cecf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Guitar Music/Guitar Music.md"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -169,18 +182,18 @@
   "active": "28cd8aeb7678d813",
   "lastOpenFiles": [
     "Guitar Music/Guitar Music.md",
-    "Templates/Song.md",
+    "Guitar Music/TheRollingStones-Angie.md",
+    "Guitar Music/VanMorrison-BrownEyedGirl.md",
+    "Guitar Music/U2-WithOrWithoutYou.md",
+    "Guitar Music/David Bowie - Space Oddity.md",
+    "Guitar Music/R.E.M. - The One I Love.md",
+    "Guitar Music/Red Hot Chili Peppers - Otherside.md",
     "Guitar Music/Smilers - Nii Sind Ootan.md",
+    "Guitar Music/Bob Dylan - Knockin' On Heaven's Door.md",
+    "Templates/Song.md",
     "Guitar Music/Pearu Paulus & Hedvig Hanson - Kallim Kullast.md",
     "Guitar Music/Dido - White Flag.md",
     "Guitar Music/A Star Is Born - Shallow.md",
-    "Guitar Music/VanMorrison-BrownEyedGirl.md",
-    "Guitar Music/U2-WithOrWithoutYou.md",
-    "Guitar Music/TheRollingStones-Angie.md",
-    "Guitar Music/SpaceOddity-DavidBowie.md",
-    "Guitar Music/REM-TheOneILove.md",
-    "Guitar Music/RedHotChiliPeppers-Otherside.md",
-    "Guitar Music/BobDylan-Knockin'OnHeavensDoor.md",
     "Playing Cards Collection/Decks/Bavarian Deck.md",
     "Playing Cards Collection/Playing Cards Collection.md",
     "Tabletop RPGs/Tabletop RPGs.md",
