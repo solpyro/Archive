@@ -12,5 +12,6 @@ C Am Em
 ```
 ## Tools & Notes
 [Oolimo Chord Analyzer](https://www.oolimo.com/en/guitar-chords/analyze) for figuring out the names for chords.
+[JGuitar's Chord Namer](https://jguitar.com/chordname?string5=1&string4=x&string3=x&string2=x&string1=2&string0=3) is a less sleek alternative.
 
 [TabDown](https://github.com/ultimate-guitar/Tabdown) looks much nicer than [Markdown Chords](https://github.com/dnotes/obsidian-markdown-chords), in that the markdown files look the same with or without rendering (chord formations aside) but the repo is 7 years old, inactive and no-one's turned it into an Obsidian plugin.

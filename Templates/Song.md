@@ -2,7 +2,6 @@
 Artist: 
 Title: 
 Language: English
-Genre: 
 Source: 
 Music: 
 tags:
