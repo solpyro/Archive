@@ -1,6 +1,6 @@
 ## Songs
 ```dataview
-TABLE WITHOUT ID link(file.link, Title) AS "Title", Artist, Genre
+TABLE WITHOUT ID link(file.link, Title) AS "Title", Artist
 FROM #song AND -"Templates"
 ```
 ## Scraps
@@ -9,6 +9,18 @@ FROM #song AND -"Templates"
 ```
 ```jtab
 C Am Em
+```
+
+**Candy's Song**
+```song
+G         Am
+[G]garlic is [Am]stinky
+   G              Am
+so [G]play with your [Am]slinky
+    C             Em7
+the [C]smell will be [Em7]gone, 
+     C               Em7
+when [C]we've done this [Em7]song!
 ```
 ## Tools & Notes
 [Oolimo Chord Analyzer](https://www.oolimo.com/en/guitar-chords/analyze) for figuring out the names for chords.
