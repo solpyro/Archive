@@ -1,3 +1,8 @@
+---
+tags:
+  - "#playing-cards/hanafuda"
+  - "#playing-cards/deck"
+---
 ## Suits
 January - Matsu (松, Pine)
 February - Ume (梅, Plum Blossom)
@@ -25,4 +30,7 @@ Ribbon (5 points)
 Extra Specials (10 points)
 Special (20 points)
 ## Games
-### [Hanafuda](https://en.wikipedia.org/wiki/Hanafuda) (花札)
+```dataview
+LIST 
+FROM #playing-cards/hanafuda AND #playing-cards/game  
+```
