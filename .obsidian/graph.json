@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "path:\"Guitar Music/To Format\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
