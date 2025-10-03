@@ -50,3 +50,5 @@ Tell them [G]God just [G/F#]dropped [Em]by to forgive our sins and re[G/E]lieve 
 ## Notes
 >I know I probably have this all wrong but I think it sounds pretty decent. 
 >I hope it's easier for some of the beginners, I think everyone should enjoy this song and it's easy to play! Please leave a good rating! Thanks!
+
+I'm not sure about the G/E chord, but the rest sounds good

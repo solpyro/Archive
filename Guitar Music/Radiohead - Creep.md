@@ -12,6 +12,7 @@ tags:
 ```jtab
 C E %X/X.0/0.3/3.2/2.1/1.1/1[F/A] %X/X.X/X.3/3.1/1.1/1.1/1[Fm]
 ```
+
 ```song
 **Verse 1:**
 When you were here be[C]fore,
