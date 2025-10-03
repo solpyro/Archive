@@ -1,8 +1,5 @@
 ## Songs
-```dataview
-TABLE WITHOUT ID link(file.link, Title) AS "Title", Artist
-FROM #song AND -"Templates"
-```
+![[Guitar Music.base]]
 ## Scraps
 ```jtab
 %3/2.2/1.0/0.0/0.3/3.3/4[G] %X/X.3/2.2/1.0/0.3/3.3/4[Cadd9] %X/X.X/X.3/2.2/1.3/3.3/4[F6(9)]

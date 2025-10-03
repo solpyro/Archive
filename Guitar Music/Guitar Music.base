@@ -1,0 +1,28 @@
+filters:
+  and:
+    - file.hasTag("song")
+    - '!file.inFolder("Templates")'
+formulas:
+  link(File, Title): link(File, Title)
+  Listen: |-
+    list(Music).map(link(value,
+    icon("volume-2")))
+properties:
+  formula.link(File, Title):
+    displayName: Title
+views:
+  - type: table
+    name: Table
+    order:
+      - formula.link(File, Title)
+      - Artist
+      - formula.Listen
+    sort:
+      - property: formula.link(File, Title)
+        direction: DESC
+      - property: formula.Untitled
+        direction: ASC
+      - property: formula.Listen
+        direction: ASC
+      - property: Genre
+        direction: DESC
