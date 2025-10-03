@@ -2,7 +2,11 @@
 tags:
   - "#playing-cards/hanafuda"
   - "#playing-cards/deck"
+aliases:
+  - Hanafuda
+  - 花札
 ---
+[Wikipedia](https://en.wikipedia.org/wiki/Hanafuda)
 ## Suits
 January - Matsu (松, Pine)
 February - Ume (梅, Plum Blossom)
