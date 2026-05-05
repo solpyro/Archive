@@ -2,6 +2,7 @@
 tags:
   - playing-cards/bavarian
   - playing-cards/deck
+wiki: https://en.wikipedia.org/wiki/German-suited_playing_cards
 ---
 ## Suits
 Eichel (Acorn - Club)
@@ -19,7 +20,4 @@ Unter (Sergeant)
 7
 6 (Optional)
 ## Games
-```dataview
-LIST 
-FROM #playing-cards/bavarian AND #playing-cards/game  
-```
+![[Games.base#Bavarian]]

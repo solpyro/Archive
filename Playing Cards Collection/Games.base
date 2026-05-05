@@ -1,0 +1,47 @@
+filters:
+  and:
+    - file.tags.contains("playing-cards/game")
+    - file.inFolder("Playing Cards Collection/Games")
+views:
+  - type: table
+    name: Games
+    groupBy:
+      property: deck
+      direction: ASC
+    order:
+      - file.name
+      - deck
+      - origin
+      - wiki
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: wiki
+        direction: ASC
+    columnSize:
+      note.deck: 91
+  - type: table
+    name: Bavarian
+    filters:
+      and:
+        - deck == "Bavarian"
+    order:
+      - file.name
+      - origin
+  - type: table
+    name: French
+    filters:
+      and:
+        - deck == "French"
+    order:
+      - file.name
+      - origin
+  - type: table
+    name: Hanafuda
+    filters:
+      and:
+        - deck == "Hanafuda"
+    order:
+      - file.name
+      - origin

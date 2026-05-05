@@ -5,8 +5,8 @@ tags:
 aliases:
   - Hanafuda
   - 花札
+wiki: https://en.wikipedia.org/wiki/Hanafuda
 ---
-[Wikipedia](https://en.wikipedia.org/wiki/Hanafuda)
 ## Suits
 January - Matsu (松, Pine)
 February - Ume (梅, Plum Blossom)
@@ -34,7 +34,4 @@ Ribbon (5 points)
 Extra Specials (10 points)
 Special (20 points)
 ## Games
-```dataview
-LIST 
-FROM #playing-cards/hanafuda AND #playing-cards/game  
-```
+![[Games.base#Hanafuda]]
